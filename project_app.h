@@ -20,6 +20,7 @@
 #include "dsi3slave.h"
 #include "measurement.h"
 #include "CFARsim.h"
+#include "triangulation.h"
 
 /************************************************
  * [2]
@@ -35,7 +36,8 @@
   REGISTER_APPLET(RDUMMaster);\
   REGISTER_APPLET(DSI3Slave);\
   REGISTER_APPLET(Measurement);\
-  REGISTER_APPLET(CFARsim);
+  REGISTER_APPLET(CFARsim); \
+  REGISTER_APPLET(Triangulation);
 
 
 #include "mainapp.h"
@@ -44,7 +46,7 @@
 
 #define PROJECT_TYPES   0// "NAA","OAA"
 
-#define APPLET_COUNT    (11)
+#define APPLET_COUNT    (12)
 
 static bool  ProjectApp_Load_Data()
 {

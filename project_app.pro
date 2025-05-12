@@ -60,7 +60,8 @@ SOURCES += \
     uartuartcontroller.cpp \
     uartspicontroller.cpp \
     uartssicontroller.cpp \
-    CFARsim.cpp
+    CFARsim.cpp \
+    triangulation.cpp
 
 
 HEADERS += \
@@ -75,7 +76,8 @@ HEADERS += \
     uartuartcontroller.h \
     uartspicontroller.h \
     uartssicontroller.h \
-    CFARsim.h
+    CFARsim.h \
+    triangulation.h
 
 
 FORMS += \
@@ -87,7 +89,8 @@ FORMS += \
     uartuartcontroller.ui \
     uartspicontroller.ui \
     uartssicontroller.ui \
-    CFARsim.ui
+    CFARsim.ui \
+    triangulation.ui
 RESOURCES += \
     $$PWD/project_app.qrc
 

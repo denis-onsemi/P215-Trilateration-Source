@@ -30,6 +30,7 @@
 namespace Ui {
     class Measurement;
 }
+extern double received_data[3][3][2];    //propojeni s triangulaci
 
 class Measurement : public Applet
 {

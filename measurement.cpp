@@ -7,6 +7,7 @@
 #include "uartuartcontroller.h"
 #include "uartspicontroller.h"
 #include "uartssicontroller.h"
+#include "triangulation.h"
 #include "mainapp.h"
 #include "QTime"
 #include "math.h"
@@ -33,6 +34,7 @@
 Measurement *gp_Measurement;
 
 QTimer *MEAStimer;
+double received_data[3][3][2];
 
 Measurement::Measurement(QWidget *parent) :
     Applet(parent)
@@ -568,6 +570,7 @@ QVariant Measurement::FUNCTION_LIST()
             }
 
             gp_DSI3Master->Log(LOG_TYPE_BUTTON, QString("Function getSamples"));
+            gp_Triangulation->runAppCommand("ReadTriData","","","","","");         //refresh Trilateration window
             return response;
         }
 
