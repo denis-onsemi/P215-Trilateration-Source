@@ -1,0 +1,61 @@
+Warning[09:31:27]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[09:31:27]: LocalServer:new "\\.\pipe\DSI3PASd" 
+Debug[09:31:27]: Register specific 
+Debug[09:31:28]: DynScaleCaclulate 
+Debug[09:31:29]: "init 2 UartUartController" 
+Debug[09:31:29]: Ok 
+Debug[09:31:29]: "init 3 UartSpiController" 
+Debug[09:31:29]: Ok 
+Debug[09:31:29]: "init 4 UartSsiController" 
+Debug[09:31:29]: Ok 
+Debug[09:31:29]: "init 5 DSI3Master" 
+Debug[09:31:29]: Ok 
+Debug[09:31:29]: "init 6 ASICMaster" 
+Debug[09:31:29]: Ok 
+Debug[09:31:29]: "init 7 RDUMMaster" 
+Debug[09:31:29]: Ok 
+Debug[09:31:29]: "init 8 DSI3Slave" 
+Debug[09:31:31]: Ok 
+Debug[09:31:31]: "init 9 Measurement" 
+Debug[09:31:32]: Ok 
+Debug[09:31:32]: "init 10 CFARsim" 
+Debug[09:31:32]: Ok 
+Debug[09:31:32]: Using SERPORT
+Debug[09:31:32]: MainApp Starting... 
+Debug[09:31:34]: Add applets to MainWindow...
+ 
+Debug[09:31:34]: Initialize Connection... 
+Debug[09:31:38]: signal in logmode 
+Debug[09:31:38]: "INF(09:31:38.082):Connected to no_board" 
+Debug[09:31:38]: log_breakpoint 
+Debug[09:31:38]: 5 
+Warning[09:31:38]: Could not parse stylesheet of widget 0x36c1d68
+Debug[09:31:38]: "Resume:Logs" 
+Debug[09:31:38]: "Resume:Settings" 
+Debug[09:31:38]: "Resume:UartUartController" 
+Debug[09:31:38]: "Resume:UartSpiController" 
+Debug[09:31:38]: "Resume:UartSsiController" 
+Debug[09:31:38]: "Resume:DSI3Master" 
+Debug[09:31:38]: "Resume:ASICMaster" 
+Debug[09:31:38]: "Resume:RDUMMaster" 
+Debug[09:31:38]: "Resume:DSI3Slave" 
+Debug[09:31:38]: "Resume:Measurement" 
+Debug[09:31:38]: "Resume:CFARsim" 
+Debug[09:32:32]: "Suspend:Settings" 
+Debug[09:32:32]: "Suspend:UartUartController" 
+Debug[09:32:32]: "Suspend:UartSpiController" 
+Debug[09:32:32]: "Suspend:UartSsiController" 
+Debug[09:32:32]: "Suspend:DSI3Master" 
+Debug[09:32:32]: "Suspend:ASICMaster" 
+Debug[09:32:32]: "Suspend:RDUMMaster" 
+Debug[09:32:32]: "Suspend:DSI3Slave" 
+Debug[09:32:32]: "Suspend:Measurement" 
+Debug[09:32:32]: "Suspend:CFARsim" 
+Debug[09:32:32]: signal in logmode 
+Debug[09:32:32]: "INF(09:32:32.157):Disconnect by user" 
+Debug[09:32:32]: log_breakpoint 
+Debug[09:32:32]: 5 
+Debug[09:32:32]: signal in logmode 
+Debug[09:32:32]: "INF(09:32:32.179):Disconnect by user" 
+Debug[09:32:32]: log_breakpoint 
+Debug[09:32:32]: 5 

@@ -1,0 +1,31 @@
+QLineEdit[readOnly="true"] {
+background-color: lightyellow ;
+}
+CustomControls--LineEdit:focus,CustomControls--RealEdit:focus{
+border: 2px solid orange;
+border-radius: 2px;
+}
+QCheckBox[checkable="false"] { background-color: lightyellow }
+CustomControls--FoldingBox {
+ background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                   stop: 0 #E0E0E0, stop: 1 #FFFFFF);
+ border: 2px solid darkgrey;
+ border-radius: 5px;
+}
+QLabel[MSG="warning"]{
+background-color: #f1ec86;border-style: outset;                          border-width: 1px;border-radius: 2px;border-color: grey;
+font: bold 10px;padding: 6px;
+}
+QLabel[MSG="info"]{
+background-color: #efe9dc;border-style: outset;                          border-width: 1px;border-radius: 2px;border-color: grey;
+font: bold 10px;padding: 6px;
+}
+
+QPushButton:checked{
+border: 1px solid rgb(165, 119, 3);
+border-radius:3px;
+background-color: orange;
+min-height: 23px;
+}
+
+

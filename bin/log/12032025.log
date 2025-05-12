@@ -1,0 +1,124 @@
+Warning[14:04:15]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[14:04:15]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[14:04:15]: Register specific 
+Debug[14:04:16]: DynScaleCaclulate 
+Debug[14:04:17]: "init 2 UartUartController" 
+Debug[14:04:17]: Ok 
+Debug[14:04:17]: "init 3 UartSpiController" 
+Debug[14:04:17]: Ok 
+Debug[14:04:17]: "init 4 UartSsiController" 
+Debug[14:04:17]: Ok 
+Debug[14:04:17]: "init 5 DSI3Master" 
+Debug[14:04:17]: Ok 
+Debug[14:04:17]: "init 6 ASICMaster" 
+Debug[14:04:17]: Ok 
+Debug[14:04:17]: "init 7 RDUMMaster" 
+Debug[14:04:17]: Ok 
+Debug[14:04:17]: "init 8 DSI3Slave" 
+Debug[14:04:21]: Ok 
+Debug[14:04:21]: "init 9 Measurement" 
+Debug[14:04:23]: Ok 
+Debug[14:04:23]: "init 10 CFARsim" 
+Debug[14:04:23]: Ok 
+Debug[14:04:23]: MainApp Starting... 
+Debug[14:04:25]: Add applets to MainWindow...
+ 
+Debug[14:04:25]: Initialize Connection... 
+Debug[14:04:25]: signal in logmode 
+Debug[14:04:25]: "INF(14:04:25.614):Mode is OK" 
+Debug[14:04:25]: log_breakpoint 
+Debug[14:04:25]: 5 
+Debug[14:04:25]: signal in logmode 
+Debug[14:04:25]: "INF(14:04:25.617):Attempt" 
+Debug[14:04:25]: log_breakpoint 
+Debug[14:04:25]: 5 
+Debug[14:04:25]: signal in logmode 
+Debug[14:04:25]: "INF(14:04:25.926):Attempt" 
+Debug[14:04:25]: log_breakpoint 
+Debug[14:04:25]: 5 
+Debug[14:04:26]: signal in logmode 
+Debug[14:04:26]: "INF(14:04:26.235):Attempt" 
+Debug[14:04:26]: log_breakpoint 
+Debug[14:04:26]: 5 
+Debug[14:04:26]: signal in logmode 
+Debug[14:04:26]: "INF(14:04:26.549):Mode is OK" 
+Debug[14:04:26]: log_breakpoint 
+Debug[14:04:26]: 5 
+Debug[14:04:26]: signal in logmode 
+Debug[14:04:26]: "INF(14:04:26.555):Attempt" 
+Debug[14:04:26]: log_breakpoint 
+Debug[14:04:26]: 5 
+Debug[14:04:26]: signal in logmode 
+Debug[14:04:26]: "INF(14:04:26.877):Attempt" 
+Debug[14:04:26]: log_breakpoint 
+Debug[14:04:26]: 5 
+Debug[14:04:27]: signal in logmode 
+Debug[14:04:27]: "INF(14:04:27.189):Attempt" 
+Debug[14:04:27]: log_breakpoint 
+Debug[14:04:27]: 5 
+Debug[14:04:27]: signal in logmode 
+Debug[14:04:27]: "INF(14:04:27.501):Mode is OK" 
+Debug[14:04:27]: log_breakpoint 
+Debug[14:04:27]: 5 
+Debug[14:04:27]: signal in logmode 
+Debug[14:04:27]: "INF(14:04:27.506):Attempt" 
+Debug[14:04:27]: log_breakpoint 
+Debug[14:04:27]: 5 
+Debug[14:04:27]: signal in logmode 
+Debug[14:04:27]: "INF(14:04:27.811):Attempt" 
+Debug[14:04:27]: log_breakpoint 
+Debug[14:04:27]: 5 
+Debug[14:04:28]: signal in logmode 
+Debug[14:04:28]: "INF(14:04:28.122):Attempt" 
+Debug[14:04:28]: log_breakpoint 
+Debug[14:04:28]: 5 
+Debug[14:04:28]: signal in logmode 
+Debug[14:04:28]: "INF(14:04:28.435):Mode is OK" 
+Debug[14:04:28]: log_breakpoint 
+Debug[14:04:28]: 5 
+Debug[14:04:28]: signal in logmode 
+Debug[14:04:28]: "INF(14:04:28.439):Attempt" 
+Debug[14:04:28]: log_breakpoint 
+Debug[14:04:28]: 5 
+Debug[14:04:28]: signal in logmode 
+Debug[14:04:28]: "INF(14:04:28.746):Attempt" 
+Debug[14:04:28]: log_breakpoint 
+Debug[14:04:28]: 5 
+Debug[14:04:29]: signal in logmode 
+Debug[14:04:29]: "INF(14:04:29.060):Attempt" 
+Debug[14:04:29]: log_breakpoint 
+Debug[14:04:29]: 5 
+Debug[14:04:35]: signal in logmode 
+Debug[14:04:35]: "INF(14:04:35.724):Connected to no_board" 
+Debug[14:04:35]: log_breakpoint 
+Debug[14:04:35]: 5 
+Warning[14:04:35]: Could not parse stylesheet of widget 0x2d67240
+Debug[14:04:35]: "Resume:Logs" 
+Debug[14:04:35]: "Resume:Settings" 
+Debug[14:04:35]: "Resume:UartUartController" 
+Debug[14:04:35]: "Resume:UartSpiController" 
+Debug[14:04:35]: "Resume:UartSsiController" 
+Debug[14:04:35]: "Resume:DSI3Master" 
+Debug[14:04:35]: "Resume:ASICMaster" 
+Debug[14:04:35]: "Resume:RDUMMaster" 
+Debug[14:04:35]: "Resume:DSI3Slave" 
+Debug[14:04:35]: "Resume:Measurement" 
+Debug[14:04:35]: "Resume:CFARsim" 
+Debug[14:09:16]: "Suspend:Settings" 
+Debug[14:09:16]: "Suspend:UartUartController" 
+Debug[14:09:16]: "Suspend:UartSpiController" 
+Debug[14:09:16]: "Suspend:UartSsiController" 
+Debug[14:09:16]: "Suspend:DSI3Master" 
+Debug[14:09:16]: "Suspend:ASICMaster" 
+Debug[14:09:16]: "Suspend:RDUMMaster" 
+Debug[14:09:16]: "Suspend:DSI3Slave" 
+Debug[14:09:16]: "Suspend:Measurement" 
+Debug[14:09:16]: "Suspend:CFARsim" 
+Debug[14:09:16]: signal in logmode 
+Debug[14:09:16]: "INF(14:09:16.486):Disconnect by user" 
+Debug[14:09:16]: log_breakpoint 
+Debug[14:09:16]: 5 
+Debug[14:09:16]: signal in logmode 
+Debug[14:09:16]: "INF(14:09:16.539):Disconnect by user" 
+Debug[14:09:16]: log_breakpoint 
+Debug[14:09:16]: 5 

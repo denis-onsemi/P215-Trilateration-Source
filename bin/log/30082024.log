@@ -1,0 +1,60 @@
+Warning[16:12:02]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[16:12:02]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[16:12:02]: Register specific 
+Debug[16:12:02]: DynScaleCaclulate 
+Debug[16:12:02]: "init 2 UartUartController" 
+Debug[16:12:02]: Ok 
+Debug[16:12:02]: "init 3 UartSpiController" 
+Debug[16:12:02]: Ok 
+Debug[16:12:02]: "init 4 UartSsiController" 
+Debug[16:12:02]: Ok 
+Debug[16:12:02]: "init 5 DSI3Master" 
+Debug[16:12:02]: Ok 
+Debug[16:12:02]: "init 6 ASICMaster" 
+Debug[16:12:02]: Ok 
+Debug[16:12:02]: "init 7 RDUMMaster" 
+Debug[16:12:02]: Ok 
+Debug[16:12:02]: "init 8 DSI3Slave" 
+Debug[16:12:03]: Ok 
+Debug[16:12:03]: "init 9 Measurement" 
+Debug[16:12:04]: Ok 
+Debug[16:12:04]: "init 10 CFARsim" 
+Debug[16:12:04]: Ok 
+Debug[16:12:04]: MainApp Starting... 
+Debug[16:12:05]: Add applets to MainWindow...
+ 
+Debug[16:12:05]: Initialize Connection... 
+Debug[16:12:11]: signal in logmode 
+Debug[16:12:11]: "INF(16:12:11.592):Connected to no_board" 
+Debug[16:12:11]: log_breakpoint 
+Debug[16:12:11]: 5 
+Warning[16:12:11]: Could not parse stylesheet of widget 0x2da8570
+Debug[16:12:11]: "Resume:Logs" 
+Debug[16:12:11]: "Resume:Settings" 
+Debug[16:12:11]: "Resume:UartUartController" 
+Debug[16:12:11]: "Resume:UartSpiController" 
+Debug[16:12:11]: "Resume:UartSsiController" 
+Debug[16:12:11]: "Resume:DSI3Master" 
+Debug[16:12:11]: "Resume:ASICMaster" 
+Debug[16:12:11]: "Resume:RDUMMaster" 
+Debug[16:12:11]: "Resume:DSI3Slave" 
+Debug[16:12:11]: "Resume:Measurement" 
+Debug[16:12:11]: "Resume:CFARsim" 
+Debug[16:14:57]: "Suspend:Settings" 
+Debug[16:14:57]: "Suspend:UartUartController" 
+Debug[16:14:57]: "Suspend:UartSpiController" 
+Debug[16:14:57]: "Suspend:UartSsiController" 
+Debug[16:14:57]: "Suspend:DSI3Master" 
+Debug[16:14:57]: "Suspend:ASICMaster" 
+Debug[16:14:57]: "Suspend:RDUMMaster" 
+Debug[16:14:57]: "Suspend:DSI3Slave" 
+Debug[16:14:57]: "Suspend:Measurement" 
+Debug[16:14:57]: "Suspend:CFARsim" 
+Debug[16:14:57]: signal in logmode 
+Debug[16:14:57]: "INF(16:14:57.587):Disconnect by user" 
+Debug[16:14:57]: log_breakpoint 
+Debug[16:14:57]: 5 
+Debug[16:14:57]: signal in logmode 
+Debug[16:14:57]: "INF(16:14:57.619):Disconnect by user" 
+Debug[16:14:57]: log_breakpoint 
+Debug[16:14:57]: 5 

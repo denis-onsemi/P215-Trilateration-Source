@@ -1,0 +1,102 @@
+Warning[08:20:55]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[08:20:55]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[08:20:55]: Register specific 
+Debug[08:20:55]: DynScaleCaclulate 
+Debug[08:20:55]: "init 2 UartUartController" 
+Debug[08:20:55]: Ok 
+Debug[08:20:55]: "init 3 UartSpiController" 
+Debug[08:20:55]: Ok 
+Debug[08:20:55]: "init 4 UartSsiController" 
+Debug[08:20:55]: Ok 
+Debug[08:20:55]: "init 5 DSI3Master" 
+Debug[08:20:55]: Ok 
+Debug[08:20:55]: "init 6 ASICMaster" 
+Debug[08:20:55]: Ok 
+Debug[08:20:55]: "init 7 RDUMMaster" 
+Debug[08:20:55]: Ok 
+Debug[08:20:55]: "init 8 DSI3Slave" 
+Debug[08:20:56]: Ok 
+Debug[08:20:56]: "init 9 Measurement" 
+Debug[08:20:57]: Ok 
+Debug[08:20:57]: "init 10 CFARsim" 
+Debug[08:20:57]: Ok 
+Debug[08:20:57]: MainApp Starting... 
+Debug[08:20:58]: Add applets to MainWindow...
+ 
+Debug[08:20:58]: Initialize Connection... 
+Debug[08:21:01]: signal in logmode 
+Debug[08:21:01]: "INF(08:21:01.175):Connected to no_board" 
+Debug[08:21:01]: log_breakpoint 
+Debug[08:21:01]: 5 
+Warning[08:21:01]: Could not parse stylesheet of widget 0x32376c0
+Debug[08:21:01]: "Resume:Logs" 
+Debug[08:21:01]: "Resume:Settings" 
+Debug[08:21:01]: "Resume:UartUartController" 
+Debug[08:21:01]: "Resume:UartSpiController" 
+Debug[08:21:01]: "Resume:UartSsiController" 
+Debug[08:21:01]: "Resume:DSI3Master" 
+Debug[08:21:01]: "Resume:ASICMaster" 
+Debug[08:21:01]: "Resume:RDUMMaster" 
+Debug[08:21:01]: "Resume:DSI3Slave" 
+Debug[08:21:01]: "Resume:Measurement" 
+Debug[08:21:01]: "Resume:CFARsim" 
+Debug[08:32:45]: "Suspend:Settings" 
+Debug[08:32:45]: "Suspend:UartUartController" 
+Debug[08:32:45]: "Suspend:UartSpiController" 
+Debug[08:32:45]: "Suspend:UartSsiController" 
+Debug[08:32:45]: "Suspend:DSI3Master" 
+Debug[08:32:45]: "Suspend:ASICMaster" 
+Debug[08:32:45]: "Suspend:RDUMMaster" 
+Debug[08:32:45]: "Suspend:DSI3Slave" 
+Debug[08:32:45]: "Suspend:Measurement" 
+Debug[08:32:45]: "Suspend:CFARsim" 
+Debug[08:32:45]: signal in logmode 
+Debug[08:32:45]: "INF(08:32:45.677):Disconnect by user" 
+Debug[08:32:45]: log_breakpoint 
+Debug[08:32:45]: 5 
+Debug[08:32:45]: signal in logmode 
+Debug[08:32:45]: "INF(08:32:45.701):Disconnect by user" 
+Debug[08:32:45]: log_breakpoint 
+Debug[08:32:45]: 5 
+Warning[11:09:18]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[11:09:18]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[11:09:18]: Register specific 
+Debug[11:09:19]: DynScaleCaclulate 
+Debug[11:09:19]: "init 2 UartUartController" 
+Debug[11:09:19]: Ok 
+Debug[11:09:19]: "init 3 UartSpiController" 
+Debug[11:09:19]: Ok 
+Debug[11:09:19]: "init 4 UartSsiController" 
+Debug[11:09:19]: Ok 
+Debug[11:09:19]: "init 5 DSI3Master" 
+Debug[11:09:19]: Ok 
+Debug[11:09:19]: "init 6 ASICMaster" 
+Debug[11:09:19]: Ok 
+Debug[11:09:19]: "init 7 RDUMMaster" 
+Debug[11:09:19]: Ok 
+Debug[11:09:19]: "init 8 DSI3Slave" 
+Debug[11:09:20]: Ok 
+Debug[11:09:20]: "init 9 Measurement" 
+Debug[11:09:20]: Ok 
+Debug[11:09:20]: "init 10 CFARsim" 
+Debug[11:09:20]: Ok 
+Debug[11:09:20]: MainApp Starting... 
+Debug[11:09:21]: Add applets to MainWindow...
+ 
+Debug[11:09:21]: Initialize Connection... 
+Debug[11:09:21]: signal in logmode 
+Debug[11:09:21]: "INF(11:09:21.752):Mode is OK" 
+Debug[11:09:21]: log_breakpoint 
+Debug[11:09:21]: 5 
+Debug[11:09:21]: signal in logmode 
+Debug[11:09:21]: "INF(11:09:21.755):Attempt" 
+Debug[11:09:21]: log_breakpoint 
+Debug[11:09:21]: 5 
+Debug[11:09:23]: signal in logmode 
+Debug[11:09:23]: "INF(11:09:23.129):Disconnect by user" 
+Debug[11:09:23]: log_breakpoint 
+Debug[11:09:23]: 5 
+Debug[11:09:23]: signal in logmode 
+Debug[11:09:23]: "INF(11:09:23.162):Disconnect by user" 
+Debug[11:09:23]: log_breakpoint 
+Debug[11:09:23]: 5 

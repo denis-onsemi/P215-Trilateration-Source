@@ -1,0 +1,962 @@
+Warning[13:25:15]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[13:25:15]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[13:25:15]: Register specific 
+Debug[13:25:16]: DynScaleCaclulate 
+Debug[13:25:16]: "init 2 UartUartController" 
+Debug[13:25:16]: Ok 
+Debug[13:25:16]: "init 3 UartSpiController" 
+Debug[13:25:16]: Ok 
+Debug[13:25:16]: "init 4 UartSsiController" 
+Debug[13:25:16]: Ok 
+Debug[13:25:16]: "init 5 DSI3Master" 
+Debug[13:25:16]: Ok 
+Debug[13:25:16]: "init 6 ASICMaster" 
+Debug[13:25:16]: Ok 
+Debug[13:25:16]: "init 7 RDUMMaster" 
+Debug[13:25:16]: Ok 
+Debug[13:25:16]: "init 8 DSI3Slave" 
+Debug[13:25:16]: Ok 
+Debug[13:25:16]: "init 9 Measurement" 
+Debug[13:25:17]: Ok 
+Debug[13:25:17]: "init 10 CFARsim" 
+Debug[13:25:17]: Ok 
+Debug[13:25:17]: MainApp Starting... 
+Debug[13:25:18]: Add applets to MainWindow...
+ 
+Debug[13:25:18]: Initialize Connection... 
+Debug[13:25:34]: Initialize Connection... 
+Debug[13:25:36]: signal in logmode 
+Debug[13:25:36]: "INF(13:25:36.957):Mode is OK" 
+Debug[13:25:36]: log_breakpoint 
+Debug[13:25:36]: 5 
+Debug[13:25:36]: signal in logmode 
+Debug[13:25:36]: "INF(13:25:36.960):Attempt" 
+Debug[13:25:36]: log_breakpoint 
+Debug[13:25:36]: 5 
+Debug[13:25:37]: signal in logmode 
+Debug[13:25:37]: "INF(13:25:37.278):Attempt" 
+Debug[13:25:37]: log_breakpoint 
+Debug[13:25:37]: 5 
+Debug[13:25:37]: signal in logmode 
+Debug[13:25:37]: "INF(13:25:37.592):Attempt" 
+Debug[13:25:37]: log_breakpoint 
+Debug[13:25:37]: 5 
+Debug[13:25:37]: signal in logmode 
+Debug[13:25:37]: "INF(13:25:37.901):Mode is OK" 
+Debug[13:25:37]: log_breakpoint 
+Debug[13:25:37]: 5 
+Debug[13:25:37]: signal in logmode 
+Debug[13:25:37]: "INF(13:25:37.908):Attempt" 
+Debug[13:25:37]: log_breakpoint 
+Debug[13:25:37]: 5 
+Debug[13:25:38]: signal in logmode 
+Debug[13:25:38]: "INF(13:25:38.233):Attempt" 
+Debug[13:25:38]: log_breakpoint 
+Debug[13:25:38]: 5 
+Debug[13:25:38]: signal in logmode 
+Debug[13:25:38]: "INF(13:25:38.544):Attempt" 
+Debug[13:25:38]: log_breakpoint 
+Debug[13:25:38]: 5 
+Debug[13:25:38]: signal in logmode 
+Debug[13:25:38]: "INF(13:25:38.860):Mode is OK" 
+Debug[13:25:38]: log_breakpoint 
+Debug[13:25:38]: 5 
+Debug[13:25:38]: signal in logmode 
+Debug[13:25:38]: "INF(13:25:38.865):Attempt" 
+Debug[13:25:38]: log_breakpoint 
+Debug[13:25:38]: 5 
+Debug[13:25:39]: signal in logmode 
+Debug[13:25:39]: "INF(13:25:39.022):Mode is OK" 
+Debug[13:25:39]: log_breakpoint 
+Debug[13:25:39]: 5 
+Debug[13:25:39]: signal in logmode 
+Debug[13:25:39]: "INF(13:25:39.025):Attempt" 
+Debug[13:25:39]: log_breakpoint 
+Debug[13:25:39]: 5 
+Debug[13:25:39]: signal in logmode 
+Debug[13:25:39]: "INF(13:25:39.329):Attempt" 
+Debug[13:25:39]: log_breakpoint 
+Debug[13:25:39]: 5 
+Debug[13:25:39]: signal in logmode 
+Debug[13:25:39]: "INF(13:25:39.642):Attempt" 
+Debug[13:25:39]: log_breakpoint 
+Debug[13:25:39]: 5 
+Debug[13:25:39]: signal in logmode 
+Debug[13:25:39]: "INF(13:25:39.955):Mode is OK" 
+Debug[13:25:39]: log_breakpoint 
+Debug[13:25:39]: 5 
+Debug[13:25:39]: signal in logmode 
+Debug[13:25:39]: "INF(13:25:39.960):Attempt" 
+Debug[13:25:39]: log_breakpoint 
+Debug[13:25:39]: 5 
+Debug[13:25:40]: signal in logmode 
+Debug[13:25:40]: "INF(13:25:40.265):Attempt" 
+Debug[13:25:40]: log_breakpoint 
+Debug[13:25:40]: 5 
+Debug[13:25:40]: signal in logmode 
+Debug[13:25:40]: "INF(13:25:40.576):Attempt" 
+Debug[13:25:40]: log_breakpoint 
+Debug[13:25:40]: 5 
+Debug[13:25:40]: signal in logmode 
+Debug[13:25:40]: "INF(13:25:40.885):Mode is OK" 
+Debug[13:25:40]: log_breakpoint 
+Debug[13:25:40]: 5 
+Debug[13:25:40]: signal in logmode 
+Debug[13:25:40]: "INF(13:25:40.889):Attempt" 
+Debug[13:25:40]: log_breakpoint 
+Debug[13:25:40]: 5 
+Debug[13:25:41]: signal in logmode 
+Debug[13:25:41]: "INF(13:25:41.196):Attempt" 
+Debug[13:25:41]: log_breakpoint 
+Debug[13:25:41]: 5 
+Debug[13:25:41]: signal in logmode 
+Debug[13:25:41]: "INF(13:25:41.517):Attempt" 
+Debug[13:25:41]: log_breakpoint 
+Debug[13:25:41]: 5 
+Debug[13:25:42]: signal in logmode 
+Debug[13:25:42]: "INF(13:25:42.611):Mode is OK" 
+Debug[13:25:42]: log_breakpoint 
+Debug[13:25:42]: 5 
+Debug[13:25:42]: signal in logmode 
+Debug[13:25:42]: "INF(13:25:42.614):Attempt" 
+Debug[13:25:42]: log_breakpoint 
+Debug[13:25:42]: 5 
+Debug[13:25:42]: signal in logmode 
+Debug[13:25:42]: "INF(13:25:42.929):Attempt" 
+Debug[13:25:42]: log_breakpoint 
+Debug[13:25:42]: 5 
+Debug[13:25:43]: signal in logmode 
+Debug[13:25:43]: "INF(13:25:43.245):Attempt" 
+Debug[13:25:43]: log_breakpoint 
+Debug[13:25:43]: 5 
+Debug[13:25:43]: signal in logmode 
+Debug[13:25:43]: "INF(13:25:43.558):Mode is OK" 
+Debug[13:25:43]: log_breakpoint 
+Debug[13:25:43]: 5 
+Debug[13:25:43]: signal in logmode 
+Debug[13:25:43]: "INF(13:25:43.562):Attempt" 
+Debug[13:25:43]: log_breakpoint 
+Debug[13:25:43]: 5 
+Debug[13:25:43]: signal in logmode 
+Debug[13:25:43]: "INF(13:25:43.870):Attempt" 
+Debug[13:25:43]: log_breakpoint 
+Debug[13:25:43]: 5 
+Debug[13:25:44]: signal in logmode 
+Debug[13:25:44]: "INF(13:25:44.181):Attempt" 
+Debug[13:25:44]: log_breakpoint 
+Debug[13:25:44]: 5 
+Debug[13:25:44]: signal in logmode 
+Debug[13:25:44]: "INF(13:25:44.494):Mode is OK" 
+Debug[13:25:44]: log_breakpoint 
+Debug[13:25:44]: 5 
+Debug[13:25:44]: signal in logmode 
+Debug[13:25:44]: "INF(13:25:44.499):Attempt" 
+Debug[13:25:44]: log_breakpoint 
+Debug[13:25:44]: 5 
+Debug[13:25:44]: signal in logmode 
+Debug[13:25:44]: "INF(13:25:44.522):RDUM master connected" 
+Debug[13:25:44]: log_breakpoint 
+Debug[13:25:44]: 5 
+Debug[13:25:44]: signal in logmode 
+Debug[13:25:44]: "INF(13:25:44.524):Connected to \\.\COM51" 
+Debug[13:25:44]: log_breakpoint 
+Debug[13:25:44]: 5 
+Warning[13:25:44]: Could not parse stylesheet of widget 0x2d87218
+Debug[13:25:44]: "Resume:Logs" 
+Debug[13:25:44]: "Resume:Settings" 
+Debug[13:25:44]: "Resume:UartUartController" 
+Debug[13:25:44]: "Resume:UartSpiController" 
+Debug[13:25:44]: "Resume:UartSsiController" 
+Debug[13:25:44]: "Resume:DSI3Master" 
+Debug[13:25:44]: "Resume:ASICMaster" 
+Debug[13:25:44]: "Resume:RDUMMaster" 
+Debug[13:25:44]: "Resume:DSI3Slave" 
+Debug[13:25:44]: "Resume:Measurement" 
+Debug[13:25:44]: "Resume:CFARsim" 
+Debug[13:27:13]: "Suspend:Settings" 
+Debug[13:27:13]: "Suspend:UartUartController" 
+Debug[13:27:13]: "Suspend:UartSpiController" 
+Debug[13:27:13]: "Suspend:UartSsiController" 
+Debug[13:27:13]: "Suspend:DSI3Master" 
+Debug[13:27:13]: "Suspend:ASICMaster" 
+Debug[13:27:13]: "Suspend:RDUMMaster" 
+Debug[13:27:13]: "Suspend:DSI3Slave" 
+Debug[13:27:13]: "Suspend:Measurement" 
+Debug[13:27:13]: "Suspend:CFARsim" 
+Debug[13:27:13]: signal in logmode 
+Debug[13:27:13]: "INF(13:27:13.678):Disconnect by user" 
+Debug[13:27:13]: log_breakpoint 
+Debug[13:27:13]: 5 
+Debug[13:27:13]: signal in logmode 
+Debug[13:27:13]: "INF(13:27:13.863):Disconnect by user" 
+Debug[13:27:13]: log_breakpoint 
+Debug[13:27:13]: 5 
+Warning[13:48:32]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[13:48:32]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[13:48:32]: Register specific 
+Debug[13:48:32]: DynScaleCaclulate 
+Debug[13:48:32]: "init 2 UartUartController" 
+Debug[13:48:32]: Ok 
+Debug[13:48:32]: "init 3 UartSpiController" 
+Debug[13:48:32]: Ok 
+Debug[13:48:32]: "init 4 UartSsiController" 
+Debug[13:48:32]: Ok 
+Debug[13:48:32]: "init 5 DSI3Master" 
+Debug[13:48:32]: Ok 
+Debug[13:48:32]: "init 6 ASICMaster" 
+Debug[13:48:32]: Ok 
+Debug[13:48:32]: "init 7 RDUMMaster" 
+Debug[13:48:32]: Ok 
+Debug[13:48:32]: "init 8 DSI3Slave" 
+Debug[13:48:33]: Ok 
+Debug[13:48:33]: "init 9 Measurement" 
+Debug[13:48:34]: Ok 
+Debug[13:48:34]: "init 10 CFARsim" 
+Debug[13:48:34]: Ok 
+Debug[13:48:34]: MainApp Starting... 
+Debug[13:48:35]: Add applets to MainWindow...
+ 
+Debug[13:48:35]: Initialize Connection... 
+Debug[13:48:41]: Initialize Connection... 
+Debug[13:48:42]: signal in logmode 
+Debug[13:48:42]: "INF(13:48:42.115):Mode is OK" 
+Debug[13:48:42]: log_breakpoint 
+Debug[13:48:42]: 5 
+Debug[13:48:42]: signal in logmode 
+Debug[13:48:42]: "INF(13:48:42.118):Attempt" 
+Debug[13:48:42]: log_breakpoint 
+Debug[13:48:42]: 5 
+Debug[13:48:42]: signal in logmode 
+Debug[13:48:42]: "INF(13:48:42.437):Attempt" 
+Debug[13:48:42]: log_breakpoint 
+Debug[13:48:42]: 5 
+Debug[13:48:42]: signal in logmode 
+Debug[13:48:42]: "INF(13:48:42.750):Attempt" 
+Debug[13:48:42]: log_breakpoint 
+Debug[13:48:42]: 5 
+Debug[13:48:43]: signal in logmode 
+Debug[13:48:43]: "INF(13:48:43.062):Mode is OK" 
+Debug[13:48:43]: log_breakpoint 
+Debug[13:48:43]: 5 
+Debug[13:48:43]: signal in logmode 
+Debug[13:48:43]: "INF(13:48:43.066):Attempt" 
+Debug[13:48:43]: log_breakpoint 
+Debug[13:48:43]: 5 
+Debug[13:48:43]: signal in logmode 
+Debug[13:48:43]: "INF(13:48:43.375):Attempt" 
+Debug[13:48:43]: log_breakpoint 
+Debug[13:48:43]: 5 
+Debug[13:48:43]: signal in logmode 
+Debug[13:48:43]: "INF(13:48:43.687):Attempt" 
+Debug[13:48:43]: log_breakpoint 
+Debug[13:48:43]: 5 
+Debug[13:48:43]: signal in logmode 
+Debug[13:48:44]: "INF(13:48:44.002):Mode is OK" 
+Debug[13:48:44]: log_breakpoint 
+Debug[13:48:44]: 5 
+Debug[13:48:44]: signal in logmode 
+Debug[13:48:44]: "INF(13:48:44.006):Attempt" 
+Debug[13:48:44]: log_breakpoint 
+Debug[13:48:44]: 5 
+Debug[13:48:44]: signal in logmode 
+Debug[13:48:44]: "INF(13:48:44.158):Mode is OK" 
+Debug[13:48:44]: log_breakpoint 
+Debug[13:48:44]: 5 
+Debug[13:48:44]: signal in logmode 
+Debug[13:48:44]: "INF(13:48:44.162):Attempt" 
+Debug[13:48:44]: log_breakpoint 
+Debug[13:48:44]: 5 
+Debug[13:48:44]: signal in logmode 
+Debug[13:48:44]: "INF(13:48:44.474):Attempt" 
+Debug[13:48:44]: log_breakpoint 
+Debug[13:48:44]: 5 
+Debug[13:48:44]: signal in logmode 
+Debug[13:48:44]: "INF(13:48:44.784):Attempt" 
+Debug[13:48:44]: log_breakpoint 
+Debug[13:48:44]: 5 
+Debug[13:48:45]: signal in logmode 
+Debug[13:48:45]: "INF(13:48:45.094):Mode is OK" 
+Debug[13:48:45]: log_breakpoint 
+Debug[13:48:45]: 5 
+Debug[13:48:45]: signal in logmode 
+Debug[13:48:45]: "INF(13:48:45.096):Attempt" 
+Debug[13:48:45]: log_breakpoint 
+Debug[13:48:45]: 5 
+Debug[13:48:45]: signal in logmode 
+Debug[13:48:45]: "INF(13:48:45.405):Attempt" 
+Debug[13:48:45]: log_breakpoint 
+Debug[13:48:45]: 5 
+Debug[13:48:45]: signal in logmode 
+Debug[13:48:45]: "INF(13:48:45.716):Attempt" 
+Debug[13:48:45]: log_breakpoint 
+Debug[13:48:45]: 5 
+Debug[13:48:46]: signal in logmode 
+Debug[13:48:46]: "INF(13:48:46.028):Mode is OK" 
+Debug[13:48:46]: log_breakpoint 
+Debug[13:48:46]: 5 
+Debug[13:48:46]: signal in logmode 
+Debug[13:48:46]: "INF(13:48:46.033):Attempt" 
+Debug[13:48:46]: log_breakpoint 
+Debug[13:48:46]: 5 
+Debug[13:48:46]: signal in logmode 
+Debug[13:48:46]: "INF(13:48:46.341):Attempt" 
+Debug[13:48:46]: log_breakpoint 
+Debug[13:48:46]: 5 
+Debug[13:48:46]: signal in logmode 
+Debug[13:48:46]: "INF(13:48:46.652):Attempt" 
+Debug[13:48:46]: log_breakpoint 
+Debug[13:48:46]: 5 
+Debug[13:48:47]: signal in logmode 
+Debug[13:48:47]: "INF(13:48:47.970):Mode is OK" 
+Debug[13:48:47]: log_breakpoint 
+Debug[13:48:47]: 5 
+Debug[13:48:47]: signal in logmode 
+Debug[13:48:47]: "INF(13:48:47.972):Attempt" 
+Debug[13:48:47]: log_breakpoint 
+Debug[13:48:47]: 5 
+Debug[13:48:48]: signal in logmode 
+Debug[13:48:48]: "INF(13:48:48.275):Attempt" 
+Debug[13:48:48]: log_breakpoint 
+Debug[13:48:48]: 5 
+Debug[13:48:48]: signal in logmode 
+Debug[13:48:48]: "INF(13:48:48.587):Attempt" 
+Debug[13:48:48]: log_breakpoint 
+Debug[13:48:48]: 5 
+Debug[13:48:48]: signal in logmode 
+Debug[13:48:48]: "INF(13:48:48.901):Mode is OK" 
+Debug[13:48:48]: log_breakpoint 
+Debug[13:48:48]: 5 
+Debug[13:48:48]: signal in logmode 
+Debug[13:48:48]: "INF(13:48:48.905):Attempt" 
+Debug[13:48:48]: log_breakpoint 
+Debug[13:48:48]: 5 
+Debug[13:48:49]: signal in logmode 
+Debug[13:48:49]: "INF(13:48:49.213):Attempt" 
+Debug[13:48:49]: log_breakpoint 
+Debug[13:48:49]: 5 
+Debug[13:48:49]: signal in logmode 
+Debug[13:48:49]: "INF(13:48:49.527):Attempt" 
+Debug[13:48:49]: log_breakpoint 
+Debug[13:48:49]: 5 
+Debug[13:48:49]: signal in logmode 
+Debug[13:48:49]: "INF(13:48:49.837):Mode is OK" 
+Debug[13:48:49]: log_breakpoint 
+Debug[13:48:49]: 5 
+Debug[13:48:49]: signal in logmode 
+Debug[13:48:49]: "INF(13:48:49.842):Attempt" 
+Debug[13:48:49]: log_breakpoint 
+Debug[13:48:49]: 5 
+Debug[13:48:49]: signal in logmode 
+Debug[13:48:49]: "INF(13:48:49.869):RDUM master connected" 
+Debug[13:48:49]: log_breakpoint 
+Debug[13:48:49]: 5 
+Debug[13:48:49]: signal in logmode 
+Debug[13:48:49]: "INF(13:48:49.871):Connected to \\.\COM51" 
+Debug[13:48:49]: log_breakpoint 
+Debug[13:48:49]: 5 
+Warning[13:48:49]: Could not parse stylesheet of widget 0x30a6dd8
+Debug[13:48:49]: "Resume:Logs" 
+Debug[13:48:49]: "Resume:Settings" 
+Debug[13:48:49]: "Resume:UartUartController" 
+Debug[13:48:49]: "Resume:UartSpiController" 
+Debug[13:48:49]: "Resume:UartSsiController" 
+Debug[13:48:49]: "Resume:DSI3Master" 
+Debug[13:48:49]: "Resume:ASICMaster" 
+Debug[13:48:49]: "Resume:RDUMMaster" 
+Debug[13:48:49]: "Resume:DSI3Slave" 
+Debug[13:48:49]: "Resume:Measurement" 
+Debug[13:48:49]: "Resume:CFARsim" 
+Debug[13:49:36]: "Suspend:Settings" 
+Debug[13:49:36]: "Suspend:UartUartController" 
+Debug[13:49:36]: "Suspend:UartSpiController" 
+Debug[13:49:36]: "Suspend:UartSsiController" 
+Debug[13:49:36]: "Suspend:DSI3Master" 
+Debug[13:49:36]: "Suspend:ASICMaster" 
+Debug[13:49:36]: "Suspend:RDUMMaster" 
+Debug[13:49:36]: "Suspend:DSI3Slave" 
+Debug[13:49:36]: "Suspend:Measurement" 
+Debug[13:49:36]: "Suspend:CFARsim" 
+Debug[13:49:36]: signal in logmode 
+Debug[13:49:36]: "INF(13:49:36.388):Disconnect by user" 
+Debug[13:49:36]: log_breakpoint 
+Debug[13:49:36]: 5 
+Debug[13:49:36]: signal in logmode 
+Debug[13:49:36]: "INF(13:49:36.558):Disconnect by user" 
+Debug[13:49:36]: log_breakpoint 
+Debug[13:49:36]: 5 
+Warning[13:50:11]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[13:50:11]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[13:50:11]: Register specific 
+Debug[13:50:12]: DynScaleCaclulate 
+Debug[13:50:12]: "init 2 UartUartController" 
+Debug[13:50:12]: Ok 
+Debug[13:50:12]: "init 3 UartSpiController" 
+Debug[13:50:12]: Ok 
+Debug[13:50:12]: "init 4 UartSsiController" 
+Debug[13:50:12]: Ok 
+Debug[13:50:12]: "init 5 DSI3Master" 
+Debug[13:50:12]: Ok 
+Debug[13:50:12]: "init 6 ASICMaster" 
+Debug[13:50:12]: Ok 
+Debug[13:50:12]: "init 7 RDUMMaster" 
+Debug[13:50:12]: Ok 
+Debug[13:50:12]: "init 8 DSI3Slave" 
+Debug[13:50:13]: Ok 
+Debug[13:50:13]: "init 9 Measurement" 
+Debug[13:50:14]: Ok 
+Debug[13:50:14]: "init 10 CFARsim" 
+Debug[13:50:14]: Ok 
+Debug[13:50:14]: MainApp Starting... 
+Debug[13:50:15]: Add applets to MainWindow...
+ 
+Debug[13:50:15]: Initialize Connection... 
+Debug[13:50:15]: signal in logmode 
+Debug[13:50:15]: "INF(13:50:15.592):Mode is OK" 
+Debug[13:50:15]: log_breakpoint 
+Debug[13:50:15]: 5 
+Debug[13:50:15]: signal in logmode 
+Debug[13:50:15]: "INF(13:50:15.595):Attempt" 
+Debug[13:50:15]: log_breakpoint 
+Debug[13:50:15]: 5 
+Debug[13:50:15]: signal in logmode 
+Debug[13:50:15]: "INF(13:50:15.897):Attempt" 
+Debug[13:50:15]: log_breakpoint 
+Debug[13:50:15]: 5 
+Debug[13:50:16]: signal in logmode 
+Debug[13:50:16]: "INF(13:50:16.208):Attempt" 
+Debug[13:50:16]: log_breakpoint 
+Debug[13:50:16]: 5 
+Debug[13:50:16]: signal in logmode 
+Debug[13:50:16]: "INF(13:50:16.523):Mode is OK" 
+Debug[13:50:16]: log_breakpoint 
+Debug[13:50:16]: 5 
+Debug[13:50:16]: signal in logmode 
+Debug[13:50:16]: "INF(13:50:16.529):Attempt" 
+Debug[13:50:16]: log_breakpoint 
+Debug[13:50:16]: 5 
+Debug[13:50:16]: signal in logmode 
+Debug[13:50:16]: "INF(13:50:16.850):Attempt" 
+Debug[13:50:16]: log_breakpoint 
+Debug[13:50:16]: 5 
+Debug[13:50:17]: signal in logmode 
+Debug[13:50:17]: "INF(13:50:17.161):Attempt" 
+Debug[13:50:17]: log_breakpoint 
+Debug[13:50:17]: 5 
+Debug[13:50:17]: signal in logmode 
+Debug[13:50:17]: "INF(13:50:17.472):Mode is OK" 
+Debug[13:50:17]: log_breakpoint 
+Debug[13:50:17]: 5 
+Debug[13:50:17]: signal in logmode 
+Debug[13:50:17]: "INF(13:50:17.477):Attempt" 
+Debug[13:50:17]: log_breakpoint 
+Debug[13:50:17]: 5 
+Debug[13:50:17]: signal in logmode 
+Debug[13:50:17]: "INF(13:50:17.632):Mode is OK" 
+Debug[13:50:17]: log_breakpoint 
+Debug[13:50:17]: 5 
+Debug[13:50:17]: signal in logmode 
+Debug[13:50:17]: "INF(13:50:17.637):Attempt" 
+Debug[13:50:17]: log_breakpoint 
+Debug[13:50:17]: 5 
+Debug[13:50:17]: signal in logmode 
+Debug[13:50:17]: "INF(13:50:17.955):Attempt" 
+Debug[13:50:17]: log_breakpoint 
+Debug[13:50:17]: 5 
+Debug[13:50:18]: signal in logmode 
+Debug[13:50:18]: "INF(13:50:18.267):Attempt" 
+Debug[13:50:18]: log_breakpoint 
+Debug[13:50:18]: 5 
+Debug[13:50:18]: signal in logmode 
+Debug[13:50:18]: "INF(13:50:18.578):Mode is OK" 
+Debug[13:50:18]: log_breakpoint 
+Debug[13:50:18]: 5 
+Debug[13:50:18]: signal in logmode 
+Debug[13:50:18]: "INF(13:50:18.580):Attempt" 
+Debug[13:50:18]: log_breakpoint 
+Debug[13:50:18]: 5 
+Debug[13:50:18]: signal in logmode 
+Debug[13:50:18]: "INF(13:50:18.888):Attempt" 
+Debug[13:50:18]: log_breakpoint 
+Debug[13:50:18]: 5 
+Debug[13:50:19]: signal in logmode 
+Debug[13:50:19]: "INF(13:50:19.205):Attempt" 
+Debug[13:50:19]: log_breakpoint 
+Debug[13:50:19]: 5 
+Debug[13:50:19]: signal in logmode 
+Debug[13:50:19]: "INF(13:50:19.514):Mode is OK" 
+Debug[13:50:19]: log_breakpoint 
+Debug[13:50:19]: 5 
+Debug[13:50:19]: signal in logmode 
+Debug[13:50:19]: "INF(13:50:19.519):Attempt" 
+Debug[13:50:19]: log_breakpoint 
+Debug[13:50:19]: 5 
+Debug[13:50:19]: signal in logmode 
+Debug[13:50:19]: "INF(13:50:19.823):Attempt" 
+Debug[13:50:19]: log_breakpoint 
+Debug[13:50:19]: 5 
+Debug[13:50:20]: signal in logmode 
+Debug[13:50:20]: "INF(13:50:20.138):Attempt" 
+Debug[13:50:20]: log_breakpoint 
+Debug[13:50:20]: 5 
+Debug[13:50:24]: signal in logmode 
+Debug[13:50:24]: "INF(13:50:24.291):Mode is OK" 
+Debug[13:50:24]: log_breakpoint 
+Debug[13:50:24]: 5 
+Debug[13:50:24]: signal in logmode 
+Debug[13:50:24]: "INF(13:50:24.295):Attempt" 
+Debug[13:50:24]: log_breakpoint 
+Debug[13:50:24]: 5 
+Debug[13:50:24]: signal in logmode 
+Debug[13:50:24]: "INF(13:50:24.604):Attempt" 
+Debug[13:50:24]: log_breakpoint 
+Debug[13:50:24]: 5 
+Debug[13:50:24]: signal in logmode 
+Debug[13:50:24]: "INF(13:50:24.914):Attempt" 
+Debug[13:50:24]: log_breakpoint 
+Debug[13:50:24]: 5 
+Debug[13:50:25]: signal in logmode 
+Debug[13:50:25]: "INF(13:50:25.229):Mode is OK" 
+Debug[13:50:25]: log_breakpoint 
+Debug[13:50:25]: 5 
+Debug[13:50:25]: signal in logmode 
+Debug[13:50:25]: "INF(13:50:25.234):Attempt" 
+Debug[13:50:25]: log_breakpoint 
+Debug[13:50:25]: 5 
+Debug[13:50:25]: signal in logmode 
+Debug[13:50:25]: "INF(13:50:25.539):Attempt" 
+Debug[13:50:25]: log_breakpoint 
+Debug[13:50:25]: 5 
+Debug[13:50:25]: signal in logmode 
+Debug[13:50:25]: "INF(13:50:25.852):Attempt" 
+Debug[13:50:25]: log_breakpoint 
+Debug[13:50:25]: 5 
+Debug[13:50:26]: signal in logmode 
+Debug[13:50:26]: "INF(13:50:26.161):Mode is OK" 
+Debug[13:50:26]: log_breakpoint 
+Debug[13:50:26]: 5 
+Debug[13:50:26]: signal in logmode 
+Debug[13:50:26]: "INF(13:50:26.165):Attempt" 
+Debug[13:50:26]: log_breakpoint 
+Debug[13:50:26]: 5 
+Debug[13:50:26]: signal in logmode 
+Debug[13:50:26]: "INF(13:50:26.192):RDUM master connected" 
+Debug[13:50:26]: log_breakpoint 
+Debug[13:50:26]: 5 
+Debug[13:50:26]: signal in logmode 
+Debug[13:50:26]: "INF(13:50:26.198):Connected to \\.\COM51" 
+Debug[13:50:26]: log_breakpoint 
+Debug[13:50:26]: 5 
+Warning[13:50:26]: Could not parse stylesheet of widget 0x3336f18
+Debug[13:50:26]: "Resume:Logs" 
+Debug[13:50:26]: "Resume:Settings" 
+Debug[13:50:26]: "Resume:UartUartController" 
+Debug[13:50:26]: "Resume:UartSpiController" 
+Debug[13:50:26]: "Resume:UartSsiController" 
+Debug[13:50:26]: "Resume:DSI3Master" 
+Debug[13:50:26]: "Resume:ASICMaster" 
+Debug[13:50:26]: "Resume:RDUMMaster" 
+Debug[13:50:26]: "Resume:DSI3Slave" 
+Debug[13:50:26]: "Resume:Measurement" 
+Debug[13:50:26]: "Resume:CFARsim" 
+Debug[13:50:48]: "Suspend:Settings" 
+Debug[13:50:48]: "Suspend:UartUartController" 
+Debug[13:50:48]: "Suspend:UartSpiController" 
+Debug[13:50:48]: "Suspend:UartSsiController" 
+Debug[13:50:48]: "Suspend:DSI3Master" 
+Debug[13:50:48]: "Suspend:ASICMaster" 
+Debug[13:50:48]: "Suspend:RDUMMaster" 
+Debug[13:50:48]: "Suspend:DSI3Slave" 
+Debug[13:50:48]: "Suspend:Measurement" 
+Debug[13:50:48]: "Suspend:CFARsim" 
+Debug[13:50:48]: signal in logmode 
+Debug[13:50:48]: "INF(13:50:48.350):Disconnect by user" 
+Debug[13:50:48]: log_breakpoint 
+Debug[13:50:48]: 5 
+Debug[13:50:48]: signal in logmode 
+Debug[13:50:48]: "INF(13:50:48.524):Disconnect by user" 
+Debug[13:50:48]: log_breakpoint 
+Debug[13:50:48]: 5 
+Warning[13:51:24]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[13:51:24]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[13:51:24]: Register specific 
+Debug[13:51:24]: DynScaleCaclulate 
+Debug[13:51:25]: "init 2 UartUartController" 
+Debug[13:51:25]: Ok 
+Debug[13:51:25]: "init 3 UartSpiController" 
+Debug[13:51:25]: Ok 
+Debug[13:51:25]: "init 4 UartSsiController" 
+Debug[13:51:25]: Ok 
+Debug[13:51:25]: "init 5 DSI3Master" 
+Debug[13:51:25]: Ok 
+Debug[13:51:25]: "init 6 ASICMaster" 
+Debug[13:51:25]: Ok 
+Debug[13:51:25]: "init 7 RDUMMaster" 
+Debug[13:51:25]: Ok 
+Debug[13:51:25]: "init 8 DSI3Slave" 
+Debug[13:51:25]: Ok 
+Debug[13:51:25]: "init 9 Measurement" 
+Debug[13:51:26]: Ok 
+Debug[13:51:26]: "init 10 CFARsim" 
+Debug[13:51:26]: Ok 
+Debug[13:51:26]: MainApp Starting... 
+Debug[13:51:27]: Add applets to MainWindow...
+ 
+Debug[13:51:27]: Initialize Connection... 
+Debug[13:51:27]: signal in logmode 
+Debug[13:51:27]: "INF(13:51:27.847):Mode is OK" 
+Debug[13:51:27]: log_breakpoint 
+Debug[13:51:27]: 5 
+Debug[13:51:27]: signal in logmode 
+Debug[13:51:27]: "INF(13:51:27.852):Attempt" 
+Debug[13:51:27]: log_breakpoint 
+Debug[13:51:27]: 5 
+Debug[13:51:28]: signal in logmode 
+Debug[13:51:28]: "INF(13:51:28.166):Attempt" 
+Debug[13:51:28]: log_breakpoint 
+Debug[13:51:28]: 5 
+Debug[13:51:28]: signal in logmode 
+Debug[13:51:28]: "INF(13:51:28.481):Attempt" 
+Debug[13:51:28]: log_breakpoint 
+Debug[13:51:28]: 5 
+Debug[13:51:28]: signal in logmode 
+Debug[13:51:28]: "INF(13:51:28.793):Mode is OK" 
+Debug[13:51:28]: log_breakpoint 
+Debug[13:51:28]: 5 
+Debug[13:51:28]: signal in logmode 
+Debug[13:51:28]: "INF(13:51:28.796):Attempt" 
+Debug[13:51:28]: log_breakpoint 
+Debug[13:51:28]: 5 
+Debug[13:51:29]: signal in logmode 
+Debug[13:51:29]: "INF(13:51:29.104):Attempt" 
+Debug[13:51:29]: log_breakpoint 
+Debug[13:51:29]: 5 
+Debug[13:51:29]: signal in logmode 
+Debug[13:51:29]: "INF(13:51:29.417):Attempt" 
+Debug[13:51:29]: log_breakpoint 
+Debug[13:51:29]: 5 
+Debug[13:51:29]: signal in logmode 
+Debug[13:51:29]: "INF(13:51:29.728):Mode is OK" 
+Debug[13:51:29]: log_breakpoint 
+Debug[13:51:29]: 5 
+Debug[13:51:29]: signal in logmode 
+Debug[13:51:29]: "INF(13:51:29.730):Attempt" 
+Debug[13:51:29]: log_breakpoint 
+Debug[13:51:29]: 5 
+Debug[13:51:29]: signal in logmode 
+Debug[13:51:29]: "INF(13:51:29.887):Mode is OK" 
+Debug[13:51:29]: log_breakpoint 
+Debug[13:51:29]: 5 
+Debug[13:51:29]: signal in logmode 
+Debug[13:51:29]: "INF(13:51:29.889):Attempt" 
+Debug[13:51:29]: log_breakpoint 
+Debug[13:51:29]: 5 
+Debug[13:51:30]: signal in logmode 
+Debug[13:51:30]: "INF(13:51:30.199):Attempt" 
+Debug[13:51:30]: log_breakpoint 
+Debug[13:51:30]: 5 
+Debug[13:51:30]: signal in logmode 
+Debug[13:51:30]: "INF(13:51:30.516):Attempt" 
+Debug[13:51:30]: log_breakpoint 
+Debug[13:51:30]: 5 
+Debug[13:51:30]: signal in logmode 
+Debug[13:51:30]: "INF(13:51:30.828):Mode is OK" 
+Debug[13:51:30]: log_breakpoint 
+Debug[13:51:30]: 5 
+Debug[13:51:30]: signal in logmode 
+Debug[13:51:30]: "INF(13:51:30.832):Attempt" 
+Debug[13:51:30]: log_breakpoint 
+Debug[13:51:30]: 5 
+Debug[13:51:31]: signal in logmode 
+Debug[13:51:31]: "INF(13:51:31.141):Attempt" 
+Debug[13:51:31]: log_breakpoint 
+Debug[13:51:31]: 5 
+Debug[13:51:31]: signal in logmode 
+Debug[13:51:31]: "INF(13:51:31.453):Attempt" 
+Debug[13:51:31]: log_breakpoint 
+Debug[13:51:31]: 5 
+Debug[13:51:31]: signal in logmode 
+Debug[13:51:31]: "INF(13:51:31.763):Mode is OK" 
+Debug[13:51:31]: log_breakpoint 
+Debug[13:51:31]: 5 
+Debug[13:51:31]: signal in logmode 
+Debug[13:51:31]: "INF(13:51:31.768):Attempt" 
+Debug[13:51:31]: log_breakpoint 
+Debug[13:51:31]: 5 
+Debug[13:51:32]: signal in logmode 
+Debug[13:51:32]: "INF(13:51:32.078):Attempt" 
+Debug[13:51:32]: log_breakpoint 
+Debug[13:51:32]: 5 
+Debug[13:51:32]: signal in logmode 
+Debug[13:51:32]: "INF(13:51:32.392):Attempt" 
+Debug[13:51:32]: log_breakpoint 
+Debug[13:51:32]: 5 
+Debug[13:51:36]: signal in logmode 
+Debug[13:51:36]: "INF(13:51:36.291):Mode is OK" 
+Debug[13:51:36]: log_breakpoint 
+Debug[13:51:36]: 5 
+Debug[13:51:36]: signal in logmode 
+Debug[13:51:36]: "INF(13:51:36.295):Attempt" 
+Debug[13:51:36]: log_breakpoint 
+Debug[13:51:36]: 5 
+Debug[13:51:36]: signal in logmode 
+Debug[13:51:36]: "INF(13:51:36.606):Attempt" 
+Debug[13:51:36]: log_breakpoint 
+Debug[13:51:36]: 5 
+Debug[13:51:36]: signal in logmode 
+Debug[13:51:36]: "INF(13:51:36.916):Attempt" 
+Debug[13:51:36]: log_breakpoint 
+Debug[13:51:36]: 5 
+Debug[13:51:37]: signal in logmode 
+Debug[13:51:37]: "INF(13:51:37.228):Mode is OK" 
+Debug[13:51:37]: log_breakpoint 
+Debug[13:51:37]: 5 
+Debug[13:51:37]: signal in logmode 
+Debug[13:51:37]: "INF(13:51:37.233):Attempt" 
+Debug[13:51:37]: log_breakpoint 
+Debug[13:51:37]: 5 
+Debug[13:51:37]: signal in logmode 
+Debug[13:51:37]: "INF(13:51:37.542):Attempt" 
+Debug[13:51:37]: log_breakpoint 
+Debug[13:51:37]: 5 
+Debug[13:51:37]: signal in logmode 
+Debug[13:51:37]: "INF(13:51:37.853):Attempt" 
+Debug[13:51:37]: log_breakpoint 
+Debug[13:51:37]: 5 
+Debug[13:51:38]: signal in logmode 
+Debug[13:51:38]: "INF(13:51:38.167):Mode is OK" 
+Debug[13:51:38]: log_breakpoint 
+Debug[13:51:38]: 5 
+Debug[13:51:38]: signal in logmode 
+Debug[13:51:38]: "INF(13:51:38.171):Attempt" 
+Debug[13:51:38]: log_breakpoint 
+Debug[13:51:38]: 5 
+Debug[13:51:38]: signal in logmode 
+Debug[13:51:38]: "INF(13:51:38.174):RDUM master connected" 
+Debug[13:51:38]: log_breakpoint 
+Debug[13:51:38]: 5 
+Debug[13:51:38]: signal in logmode 
+Debug[13:51:38]: "INF(13:51:38.177):Connected to \\.\COM51" 
+Debug[13:51:38]: log_breakpoint 
+Debug[13:51:38]: 5 
+Warning[13:51:38]: Could not parse stylesheet of widget 0x3046838
+Debug[13:51:38]: "Resume:Logs" 
+Debug[13:51:38]: "Resume:Settings" 
+Debug[13:51:38]: "Resume:UartUartController" 
+Debug[13:51:38]: "Resume:UartSpiController" 
+Debug[13:51:38]: "Resume:UartSsiController" 
+Debug[13:51:38]: "Resume:DSI3Master" 
+Debug[13:51:38]: "Resume:ASICMaster" 
+Debug[13:51:38]: "Resume:RDUMMaster" 
+Debug[13:51:38]: "Resume:DSI3Slave" 
+Debug[13:51:38]: "Resume:Measurement" 
+Debug[13:51:38]: "Resume:CFARsim" 
+Debug[13:55:45]: "Suspend:Settings" 
+Debug[13:55:45]: "Suspend:UartUartController" 
+Debug[13:55:45]: "Suspend:UartSpiController" 
+Debug[13:55:45]: "Suspend:UartSsiController" 
+Debug[13:55:45]: "Suspend:DSI3Master" 
+Debug[13:55:45]: "Suspend:ASICMaster" 
+Debug[13:55:45]: "Suspend:RDUMMaster" 
+Debug[13:55:45]: "Suspend:DSI3Slave" 
+Debug[13:55:45]: "Suspend:Measurement" 
+Debug[13:55:45]: "Suspend:CFARsim" 
+Debug[13:55:45]: signal in logmode 
+Debug[13:55:45]: "INF(13:55:45.062):Disconnect by user" 
+Debug[13:55:45]: log_breakpoint 
+Debug[13:55:45]: 5 
+Debug[13:55:45]: signal in logmode 
+Debug[13:55:45]: "INF(13:55:45.211):Disconnect by user" 
+Debug[13:55:45]: log_breakpoint 
+Debug[13:55:45]: 5 
+Warning[13:56:54]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[13:56:54]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[13:56:54]: Register specific 
+Debug[13:56:54]: DynScaleCaclulate 
+Debug[13:56:54]: "init 2 UartUartController" 
+Debug[13:56:54]: Ok 
+Debug[13:56:54]: "init 3 UartSpiController" 
+Debug[13:56:54]: Ok 
+Debug[13:56:54]: "init 4 UartSsiController" 
+Debug[13:56:54]: Ok 
+Debug[13:56:54]: "init 5 DSI3Master" 
+Debug[13:56:54]: Ok 
+Debug[13:56:54]: "init 6 ASICMaster" 
+Debug[13:56:54]: Ok 
+Debug[13:56:54]: "init 7 RDUMMaster" 
+Debug[13:56:54]: Ok 
+Debug[13:56:54]: "init 8 DSI3Slave" 
+Debug[13:56:55]: Ok 
+Debug[13:56:55]: "init 9 Measurement" 
+Debug[13:56:56]: Ok 
+Debug[13:56:56]: "init 10 CFARsim" 
+Debug[13:56:56]: Ok 
+Debug[13:56:56]: MainApp Starting... 
+Debug[13:56:57]: Add applets to MainWindow...
+ 
+Debug[13:56:57]: Initialize Connection... 
+Debug[13:56:57]: signal in logmode 
+Debug[13:56:57]: "INF(13:56:57.867):Mode is OK" 
+Debug[13:56:57]: log_breakpoint 
+Debug[13:56:57]: 5 
+Debug[13:56:57]: signal in logmode 
+Debug[13:56:57]: "INF(13:56:57.870):Attempt" 
+Debug[13:56:57]: log_breakpoint 
+Debug[13:56:57]: 5 
+Debug[13:56:58]: signal in logmode 
+Debug[13:56:58]: "INF(13:56:58.177):Attempt" 
+Debug[13:56:58]: log_breakpoint 
+Debug[13:56:58]: 5 
+Debug[13:56:58]: signal in logmode 
+Debug[13:56:58]: "INF(13:56:58.491):Attempt" 
+Debug[13:56:58]: log_breakpoint 
+Debug[13:56:58]: 5 
+Debug[13:56:58]: signal in logmode 
+Debug[13:56:58]: "INF(13:56:58.802):Mode is OK" 
+Debug[13:56:58]: log_breakpoint 
+Debug[13:56:58]: 5 
+Debug[13:56:58]: signal in logmode 
+Debug[13:56:58]: "INF(13:56:58.805):Attempt" 
+Debug[13:56:58]: log_breakpoint 
+Debug[13:56:58]: 5 
+Debug[13:56:59]: signal in logmode 
+Debug[13:56:59]: "INF(13:56:59.112):Attempt" 
+Debug[13:56:59]: log_breakpoint 
+Debug[13:56:59]: 5 
+Debug[13:56:59]: signal in logmode 
+Debug[13:56:59]: "INF(13:56:59.423):Attempt" 
+Debug[13:56:59]: log_breakpoint 
+Debug[13:56:59]: 5 
+Debug[13:56:59]: signal in logmode 
+Debug[13:56:59]: "INF(13:56:59.738):Mode is OK" 
+Debug[13:56:59]: log_breakpoint 
+Debug[13:56:59]: 5 
+Debug[13:56:59]: signal in logmode 
+Debug[13:56:59]: "INF(13:56:59.743):Attempt" 
+Debug[13:56:59]: log_breakpoint 
+Debug[13:56:59]: 5 
+Debug[13:56:59]: signal in logmode 
+Debug[13:56:59]: "INF(13:56:59.899):Mode is OK" 
+Debug[13:56:59]: log_breakpoint 
+Debug[13:56:59]: 5 
+Debug[13:56:59]: signal in logmode 
+Debug[13:56:59]: "INF(13:56:59.902):Attempt" 
+Debug[13:56:59]: log_breakpoint 
+Debug[13:56:59]: 5 
+Debug[13:57:00]: signal in logmode 
+Debug[13:57:00]: "INF(13:57:00.222):Attempt" 
+Debug[13:57:00]: log_breakpoint 
+Debug[13:57:00]: 5 
+Debug[13:57:00]: signal in logmode 
+Debug[13:57:00]: "INF(13:57:00.534):Attempt" 
+Debug[13:57:00]: log_breakpoint 
+Debug[13:57:00]: 5 
+Debug[13:57:00]: signal in logmode 
+Debug[13:57:00]: "INF(13:57:00.848):Mode is OK" 
+Debug[13:57:00]: log_breakpoint 
+Debug[13:57:00]: 5 
+Debug[13:57:00]: signal in logmode 
+Debug[13:57:00]: "INF(13:57:00.852):Attempt" 
+Debug[13:57:00]: log_breakpoint 
+Debug[13:57:00]: 5 
+Debug[13:57:01]: signal in logmode 
+Debug[13:57:01]: "INF(13:57:01.158):Attempt" 
+Debug[13:57:01]: log_breakpoint 
+Debug[13:57:01]: 5 
+Debug[13:57:01]: signal in logmode 
+Debug[13:57:01]: "INF(13:57:01.471):Attempt" 
+Debug[13:57:01]: log_breakpoint 
+Debug[13:57:01]: 5 
+Debug[13:57:01]: signal in logmode 
+Debug[13:57:01]: "INF(13:57:01.781):Mode is OK" 
+Debug[13:57:01]: log_breakpoint 
+Debug[13:57:01]: 5 
+Debug[13:57:01]: signal in logmode 
+Debug[13:57:01]: "INF(13:57:01.787):Attempt" 
+Debug[13:57:01]: log_breakpoint 
+Debug[13:57:01]: 5 
+Debug[13:57:02]: signal in logmode 
+Debug[13:57:02]: "INF(13:57:02.093):Attempt" 
+Debug[13:57:02]: log_breakpoint 
+Debug[13:57:02]: 5 
+Debug[13:57:02]: signal in logmode 
+Debug[13:57:02]: "INF(13:57:02.404):Attempt" 
+Debug[13:57:02]: log_breakpoint 
+Debug[13:57:02]: 5 
+Debug[13:57:06]: signal in logmode 
+Debug[13:57:06]: "INF(13:57:06.467):Mode is OK" 
+Debug[13:57:06]: log_breakpoint 
+Debug[13:57:06]: 5 
+Debug[13:57:06]: signal in logmode 
+Debug[13:57:06]: "INF(13:57:06.470):Attempt" 
+Debug[13:57:06]: log_breakpoint 
+Debug[13:57:06]: 5 
+Debug[13:57:06]: signal in logmode 
+Debug[13:57:06]: "INF(13:57:06.788):Attempt" 
+Debug[13:57:06]: log_breakpoint 
+Debug[13:57:06]: 5 
+Debug[13:57:07]: signal in logmode 
+Debug[13:57:07]: "INF(13:57:07.101):Attempt" 
+Debug[13:57:07]: log_breakpoint 
+Debug[13:57:07]: 5 
+Debug[13:57:07]: signal in logmode 
+Debug[13:57:07]: "INF(13:57:07.413):Mode is OK" 
+Debug[13:57:07]: log_breakpoint 
+Debug[13:57:07]: 5 
+Debug[13:57:07]: signal in logmode 
+Debug[13:57:07]: "INF(13:57:07.419):Attempt" 
+Debug[13:57:07]: log_breakpoint 
+Debug[13:57:07]: 5 
+Debug[13:57:07]: signal in logmode 
+Debug[13:57:07]: "INF(13:57:07.742):Attempt" 
+Debug[13:57:07]: log_breakpoint 
+Debug[13:57:07]: 5 
+Debug[13:57:08]: signal in logmode 
+Debug[13:57:08]: "INF(13:57:08.053):Attempt" 
+Debug[13:57:08]: log_breakpoint 
+Debug[13:57:08]: 5 
+Debug[13:57:08]: signal in logmode 
+Debug[13:57:08]: "INF(13:57:08.362):Mode is OK" 
+Debug[13:57:08]: log_breakpoint 
+Debug[13:57:08]: 5 
+Debug[13:57:08]: signal in logmode 
+Debug[13:57:08]: "INF(13:57:08.366):Attempt" 
+Debug[13:57:08]: log_breakpoint 
+Debug[13:57:08]: 5 
+Debug[13:57:08]: signal in logmode 
+Debug[13:57:08]: "INF(13:57:08.394):RDUM master connected" 
+Debug[13:57:08]: log_breakpoint 
+Debug[13:57:08]: 5 
+Debug[13:57:08]: signal in logmode 
+Debug[13:57:08]: "INF(13:57:08.398):Connected to \\.\COM51" 
+Debug[13:57:08]: log_breakpoint 
+Debug[13:57:08]: 5 
+Warning[13:57:08]: Could not parse stylesheet of widget 0x33e71b8
+Debug[13:57:08]: "Resume:Logs" 
+Debug[13:57:08]: "Resume:Settings" 
+Debug[13:57:08]: "Resume:UartUartController" 
+Debug[13:57:08]: "Resume:UartSpiController" 
+Debug[13:57:08]: "Resume:UartSsiController" 
+Debug[13:57:08]: "Resume:DSI3Master" 
+Debug[13:57:08]: "Resume:ASICMaster" 
+Debug[13:57:08]: "Resume:RDUMMaster" 
+Debug[13:57:08]: "Resume:DSI3Slave" 
+Debug[13:57:08]: "Resume:Measurement" 
+Debug[13:57:08]: "Resume:CFARsim" 
+Debug[14:28:19]: "Suspend:Settings" 
+Debug[14:28:19]: "Suspend:UartUartController" 
+Debug[14:28:19]: "Suspend:UartSpiController" 
+Debug[14:28:19]: "Suspend:UartSsiController" 
+Debug[14:28:19]: "Suspend:DSI3Master" 
+Debug[14:28:19]: "Suspend:ASICMaster" 
+Debug[14:28:19]: "Suspend:RDUMMaster" 
+Debug[14:28:19]: "Suspend:DSI3Slave" 
+Debug[14:28:19]: "Suspend:Measurement" 
+Debug[14:28:19]: "Suspend:CFARsim" 
+Debug[14:28:19]: signal in logmode 
+Debug[14:28:19]: "INF(14:28:19.769):Disconnect by user" 
+Debug[14:28:19]: log_breakpoint 
+Debug[14:28:19]: 5 
+Debug[14:28:19]: signal in logmode 
+Debug[14:28:19]: "INF(14:28:19.901):Disconnect by user" 
+Debug[14:28:19]: log_breakpoint 
+Debug[14:28:19]: 5 

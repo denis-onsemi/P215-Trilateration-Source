@@ -1,0 +1,35 @@
+Warning[15:16:50]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[15:16:50]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[15:16:50]: Register specific 
+Debug[15:16:50]: DynScaleCaclulate 
+Debug[15:16:50]: "init 2 UartUartController" 
+Debug[15:16:50]: Ok 
+Debug[15:16:50]: "init 3 UartSpiController" 
+Debug[15:16:50]: Ok 
+Debug[15:16:50]: "init 4 UartSsiController" 
+Debug[15:16:50]: Ok 
+Debug[15:16:50]: "init 5 DSI3Master" 
+Debug[15:16:50]: Ok 
+Debug[15:16:50]: "init 6 ASICMaster" 
+Debug[15:16:50]: Ok 
+Debug[15:16:50]: "init 7 RDUMMaster" 
+Debug[15:16:50]: Ok 
+Debug[15:16:50]: "init 8 DSI3Slave" 
+Debug[15:16:51]: Ok 
+Debug[15:16:51]: "init 9 Measurement" 
+Debug[15:16:52]: Ok 
+Debug[15:16:52]: "init 10 CFARsim" 
+Debug[15:16:52]: Ok 
+Debug[15:16:52]: MainApp Starting... 
+Debug[15:16:52]: Add applets to MainWindow...
+ 
+Debug[15:16:52]: Initialize Connection... 
+Warning[15:16:52]: QFileSystemWatcher: failed to add paths: C:/REPO/DSI3PAS2_workingdir/DSI3PAS2/Software/bin/ULSEverification_configfiles, C:/REPO/DSI3PAS2_workingdir/DSI3PAS2/Software/bin/ConfigFiles_29_1_2021_Jiri_MOBIS, C:/Users/fg6cnq/Desktop/DSI3PAS2_UART_QtSW_20210129_1511, C:/Users/zbdn9w/Desktop/Temp/CFAR QT uprava ToF, C:/Users/zbdn9w/Desktop/Temp/CFAR QT Komprimace do CSV, U:/Dokumenty/MOBIS/Crosstalk 11-2021
+Debug[16:03:19]: signal in logmode 
+Debug[16:03:19]: "INF(16:03:19.735):Disconnect by user" 
+Debug[16:03:19]: log_breakpoint 
+Debug[16:03:19]: 5 
+Debug[16:03:19]: signal in logmode 
+Debug[16:03:19]: "INF(16:03:19.761):Disconnect by user" 
+Debug[16:03:19]: log_breakpoint 
+Debug[16:03:19]: 5 

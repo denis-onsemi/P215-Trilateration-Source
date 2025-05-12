@@ -1,0 +1,34 @@
+Warning[17:54:56]: QObject::connect: Cannot connect LocalServer::log(int,QString) to (null)::slot_addLog(int,QString)
+Debug[17:54:56]: LocalServer:new "\\.\pipe\DSI3PAS" 
+Debug[17:54:56]: Register specific 
+Debug[17:54:56]: DynScaleCaclulate 
+Debug[17:54:56]: "init 2 UartUartController" 
+Debug[17:54:56]: Ok 
+Debug[17:54:56]: "init 3 UartSpiController" 
+Debug[17:54:56]: Ok 
+Debug[17:54:56]: "init 4 UartSsiController" 
+Debug[17:54:56]: Ok 
+Debug[17:54:56]: "init 5 DSI3Master" 
+Debug[17:54:56]: Ok 
+Debug[17:54:56]: "init 6 ASICMaster" 
+Debug[17:54:56]: Ok 
+Debug[17:54:56]: "init 7 RDUMMaster" 
+Debug[17:54:56]: Ok 
+Debug[17:54:56]: "init 8 DSI3Slave" 
+Debug[17:54:57]: Ok 
+Debug[17:54:57]: "init 9 Measurement" 
+Debug[17:54:58]: Ok 
+Debug[17:54:58]: "init 10 CFARsim" 
+Debug[17:54:58]: Ok 
+Debug[17:54:58]: MainApp Starting... 
+Debug[17:54:58]: Add applets to MainWindow...
+ 
+Debug[17:54:58]: Initialize Connection... 
+Debug[17:55:00]: signal in logmode 
+Debug[17:55:00]: "INF(17:55:00.176):Disconnect by user" 
+Debug[17:55:00]: log_breakpoint 
+Debug[17:55:00]: 5 
+Debug[17:55:00]: signal in logmode 
+Debug[17:55:00]: "INF(17:55:00.200):Disconnect by user" 
+Debug[17:55:00]: log_breakpoint 
+Debug[17:55:00]: 5 
